@@ -22,6 +22,12 @@
     <string name="enter_address_hint">Isi alamat sekarang</string>
     <string name="phone_label_string">Phone</string>
     <string name="enter_phone_hint">Isi nomor telepon</string>
+
+    <string-array name="city_array">
+        <item>Kota Bandung</item>
+        <item>Kota Cimahi</item>
+        <item>Kabupaten Bandung</item>
+    </string-array>
     <string name="choose_delivery_method">Choose Delivery Method</string>
     <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="next_day_ground_delivery">Next day ground delivery</string>
